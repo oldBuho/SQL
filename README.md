@@ -1,3 +1,3 @@
-This used to be the "SQL technical interview challenge", for data analysis and data science job openings, at a major company.
+Real "SQL technical interview assessments", for data analysis and data science job openings, at majors companies.
 
 Privacy issues: none.
