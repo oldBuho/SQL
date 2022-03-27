@@ -1,3 +1,3 @@
-Real "SQL technical interview assessments", for data analysis and data science job openings, at majors companies.
+Real major-companies "SQL interview assessments" for Data Analysis and Data Science job openings.
 
 Privacy issues: none.
