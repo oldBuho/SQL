@@ -1,0 +1,101 @@
+symbol,name
+AAPL,Apple
+MSFT,Microsoft
+AMZN,Amazon
+GOOG,Alphabet (Google)
+FB,Facebook
+BRK-A,Berkshire Hathaway 
+TSLA,Tesla
+V,Visa
+NVDA,NVIDIA
+JPM,JPMorgan Chase
+JNJ,Johnson & Johnson
+WMT,Walmart
+UNH,UnitedHealth
+MA,Mastercard
+BAC,Bank of America 
+PG,Procter & Gamble
+PYPL,PayPal
+HD,Home Depot
+DIS,Walt Disney
+CMCSA,Comcast
+ADBE,Adobe
+XOM,Exxon Mobil
+KO,Coca-Cola
+VZ,Verizon
+INTC,Intel
+CRM,Salesforce
+CSCO,Cisco
+ORCL,Oracle
+PFE,Pfizer
+NFLX,Netflix
+LLY,Eli Lilly
+CVX,Chevron
+T,AT&T
+PEP,Pepsico
+NKE,Nike
+ABBV,AbbVie
+ABT,Abbott Laboratories
+MRK,Merck
+AVGO,Broadcom
+TMO,Thermo Fisher Scientific
+DHR,Danaher
+TMUS,T-Mobile US
+WFC,Wells Fargo
+MCD,McDonald
+TXN,Texas Instruments
+UPS,United Parcel Service
+COST,Costco
+MS,Morgan Stanley
+PM,Philip Morris
+QCOM,QUALCOMM
+HON,Honeywell
+BMY,Bristol-Myers Squibb
+NEE,Nextera Energy
+UNP,Union Pacific Corporation
+C,Citigroup
+BA,Boeing
+AMGN,Amgen
+SCHW,Charles Schwab
+BLK,BlackRock
+LOW,Lowes Companies
+RTX,Raytheon Technologies
+SBUX,Starbucks
+CHTR,Charter Communications
+AXP,American Express
+IBM,IBM
+INTU,Intuit
+AMAT,Applied Materials
+GS,Goldman Sachs
+AMT,American Tower
+CAT,Caterpillar
+TGT,Target
+GE,General Electric
+MMM,3M
+CVS,CVS Health
+ZM,Zoom
+EL,Estee Lauder
+LMT,Lockheed Martin
+ISRG,Intuitive Surgical
+NOW,ServiceNow
+AMD,AMD
+SQ,Square
+DE,Deere & Company
+SYK,Stryker Corporation
+SNAP,Snap
+SPGI,S&P Global
+BKNG,Booking.com
+UBER,Uber
+ABNB,Airbnb
+ANTM,Anthem
+LRCX,Lam Research
+PLD,Prologis
+FIS,Fidelity National Information Services
+MU,Micron Technology
+MDLZ,Mondelez
+ZTS,Zoetis
+GM,General Motors
+USB,U.S. Bancorp
+MO,Altria Group
+CCI,Crown Castle
+GILD,Gilead Sciences
